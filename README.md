@@ -18,7 +18,7 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository to your local machine: 
 ```bash 
-git clone https://github.com/<your-github-username>/<your-project-name>.git
+git clone https://github.com/TheAkif/document_pocessor.git
 ```
 2. Navigate to the project directory.
 ```bash
