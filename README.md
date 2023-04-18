@@ -52,7 +52,6 @@ SELECT * FROM auth_user;
 **Backend:**
 [Black](https://github.com/psf/black) is used for backend code formatter.
 ```bash
-docker-compose -f local.yml run --rm spekit-backend bash
 ./black.sh
 ```
 
